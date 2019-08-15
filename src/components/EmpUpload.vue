@@ -5,6 +5,8 @@
     	<input type="file" name="file" />
     	<input type="submit" class="btn btn-default" value="上传" />
     </form>-->
+    test
+    
     <input type="text" name="username" id="username" />
     <input type="file" name="file" />
    	<input type="button" id="username" class="btn btn-default" v-on:click="upload" value="上传" />
